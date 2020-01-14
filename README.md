@@ -10,6 +10,10 @@ Instructor: Sookyung Cho
 * Set up a complete time schedule for this directed research <br>
 
 #### Week 2: Refine the research question and design problem statement
+* List Music Apps <br>
+* Focus on the UX design <br>
+* Find online version and mobile version <br>
+* Find research paper, understand what kind of research, gather any kind of research data <br>
 
 #### Week 3: Extract user data from APIs of Music APPs and conduct exploratory analysis with existing features
 
