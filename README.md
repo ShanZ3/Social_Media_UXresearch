@@ -23,7 +23,7 @@ Instructor: Sookyung Cho
 >[UX design]:https://www.jianshu.com/p/fc74a0e845bb <br>
 
 >* QQ Music User Experience Research paper:<br>
->[Target User Research + UX design]:https://www.jianshu.com/p/e35927148245 <br>
+>[Target User Research + UX design]:http://www.woshipm.com/evaluating/1033354.html<br>
 
 >* Netnease vs. QQ Music UX design comparison paper: <br>
 >[Comparison]:https://zhuanlan.zhihu.com/p/81289403 <br>
