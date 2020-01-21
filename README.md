@@ -11,7 +11,7 @@ Instructor: Sookyung Cho
 
 #### Week 2: Refine the research question and design problem statement
 > List Music Apps <br>
->* Netease Music; QQ Music; Apple Musics <br>
+>* Netease Music; QQ Music; Apple Musics; Spotify <br>
 
 > Focus on the UX design <br>
 
@@ -41,9 +41,11 @@ Instructor: Sookyung Cho
 >* The goal of this project is to investigate and compare the representative music apps that shapes the current social life.
 As music apps reveals pros and cons in the various contexts of use, it is meaningful and timely to examine the usage patterns of music apps platforms. For example, sharing user-generated-contents also opens the possibility to the invasion of privacy; Connecting to the community sometimes forces users on the agreements that accompany the features unnecessary. I would like to research on the music apps features that users can feel manageable and helpful. As the methods, I will practice a participatory design process by the user research on the preference and usage patterns (frequency), persona & scenario, prototyping and usability testing. The final outcome will include the interactive prototypes published via web documentation and the research paper to elaborate on the process, methods and the findings.
 
-#### Week 3: Extract user data from APIs of Music APPs and conduct exploratory analysis with existing features
+core: privacy issue 
 
-#### Week 4: Conduct both Qualitative and Quantitative analysis with respect to user behaviors
+#### Week 3: Extract user data from APIs of Music APPs and conduct exploratory analysis with existing features
+> Links to the apps
+#### Week 4: Survey Conduct both Qualitative and Quantitative analysis with respect to user behaviors
 
 #### Week 5: Determine user preferences to existing and non-existing features of Music Apps and draw comparisons
 
