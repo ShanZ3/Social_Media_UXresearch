@@ -38,7 +38,7 @@ Instructor: Sookyung Cho
 >[UX design]:https://usabilitygeek.com/ux-case-study-spotify-vs-apple-music-mobile-apps/ <br>
 
 > Problem statement: <br>
-> The goal of this project is to investigate and compare the representative music apps that shapes the current social life.
+>* The goal of this project is to investigate and compare the representative music apps that shapes the current social life.
 As music apps reveals pros and cons in the various contexts of use, it is meaningful and timely to examine the usage patterns of music apps platforms. For example, sharing user-generated-contents also opens the possibility to the invasion of privacy; Connecting to the community sometimes forces users on the agreements that accompany the features unnecessary. I would like to research on the music apps features that users can feel manageable and helpful. As the methods, I will practice a participatory design process by the user research on the preference and usage patterns (frequency), persona & scenario, prototyping and usability testing. The final outcome will include the interactive prototypes published via web documentation and the research paper to elaborate on the process, methods and the findings.
 
 #### Week 3: Extract user data from APIs of Music APPs and conduct exploratory analysis with existing features
