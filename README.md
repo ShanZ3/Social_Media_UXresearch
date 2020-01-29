@@ -19,32 +19,38 @@ Instructor: Sookyung Cho
 
 > Find research paper, understand what kind of research, gather any kind of research data <br>
 >* Netease Music User Experience Research paper:<br>
->[Target User Research]:https://www.jianshu.com/p/e35927148245 <br>
->[UX design]:https://www.jianshu.com/p/fc74a0e845bb <br>
+>[Target User Research]:(https://www.jianshu.com/p/e35927148245) <br>
+>[UX design]:(https://www.jianshu.com/p/fc74a0e845bb) <br>
 
 >* QQ Music User Experience Research paper:<br>
->[Target User Research + UX design]:http://www.woshipm.com/evaluating/1033354.html<br>
+>[Target User Research + UX design]:(http://www.woshipm.com/evaluating/1033354.html)<br>
 
 >* Netnease vs. QQ Music UX design comparison paper: <br>
->[Comparison]:https://zhuanlan.zhihu.com/p/81289403 <br>
+>[Comparison]:(https://zhuanlan.zhihu.com/p/81289403) <br>
 
 >* Spotify User Experience Research paper:<br>
->[Target User Research + UX design]:https://www.leanplum.com/blog/app-engagement-spotify/ <br>
+>[Target User Research + UX design]:(https://www.leanplum.com/blog/app-engagement-spotify/) <br>
 
 >* Apple Music User Experience Research paper:<br>
->[UX design]:https://aarthipadmanabhan.com/apple-music <br>
+>[UX design]:(https://aarthipadmanabhan.com/apple-music) <br>
 
 >* Spotify vs. Apple UX design comparison paper:<br>
->[UX design]:https://usabilitygeek.com/ux-case-study-spotify-vs-apple-music-mobile-apps/ <br>
+>[UX design]:(https://usabilitygeek.com/ux-case-study-spotify-vs-apple-music-mobile-apps/) <br>
 
 > Problem statement: <br>
 >* The goal of this project is to investigate and compare the representative music apps that shapes the current social life.
 As music apps reveals pros and cons in the various contexts of use, it is meaningful and timely to examine the usage patterns of music apps platforms. For example, sharing user-generated-contents also opens the possibility to the invasion of privacy; Connecting to the community sometimes forces users on the agreements that accompany the features unnecessary. I would like to research on the music apps features that users can feel manageable and helpful. As the methods, I will practice a participatory design process by the user research on the preference and usage patterns (frequency), persona & scenario, prototyping and usability testing. The final outcome will include the interactive prototypes published via web documentation and the research paper to elaborate on the process, methods and the findings.
-
-core: privacy issue 
+>* core: privacy issue 
 
 #### Week 3: Extract user data from APIs of Music APPs and conduct exploratory analysis with existing features
-> Links to the apps
+> Links to Music Apps
+>* [Netease music web]:(https://music.163.com/)
+>* [QQ Music]:(https://y.qq.com/)
+>* [Spotify]:(https://open.spotify.com/)
+>* [Apple Music]:(https://www.apple.com/apple-music/)
+
+> Link to exploratory analysis:
+
 #### Week 4: Survey Conduct both Qualitative and Quantitative analysis with respect to user behaviors
 
 #### Week 5: Determine user preferences to existing and non-existing features of Music Apps and draw comparisons
