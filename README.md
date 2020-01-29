@@ -19,23 +19,23 @@ Instructor: Sookyung Cho
 
 > Find research paper, understand what kind of research, gather any kind of research data <br>
 >* Netease Music User Experience Research paper:<br>
->[Target User Research]:(https://www.jianshu.com/p/e35927148245) <br>
->[UX design]:(https://www.jianshu.com/p/fc74a0e845bb) <br>
+>[Target User Research](https://www.jianshu.com/p/e35927148245) <br>
+>[UX design](https://www.jianshu.com/p/fc74a0e845bb) <br>
 
 >* QQ Music User Experience Research paper:<br>
->[Target User Research + UX design]:(http://www.woshipm.com/evaluating/1033354.html)<br>
+>[Target User Research + UX design](http://www.woshipm.com/evaluating/1033354.html)<br>
 
 >* Netnease vs. QQ Music UX design comparison paper: <br>
->[Comparison]:(https://zhuanlan.zhihu.com/p/81289403) <br>
+>[Comparison](https://zhuanlan.zhihu.com/p/81289403) <br>
 
 >* Spotify User Experience Research paper:<br>
->[Target User Research + UX design]:(https://www.leanplum.com/blog/app-engagement-spotify/) <br>
+>[Target User Research + UX design](https://www.leanplum.com/blog/app-engagement-spotify/) <br>
 
 >* Apple Music User Experience Research paper:<br>
->[UX design]:(https://aarthipadmanabhan.com/apple-music) <br>
+>[UX design](https://aarthipadmanabhan.com/apple-music) <br>
 
 >* Spotify vs. Apple UX design comparison paper:<br>
->[UX design]:(https://usabilitygeek.com/ux-case-study-spotify-vs-apple-music-mobile-apps/) <br>
+>[UX design](https://usabilitygeek.com/ux-case-study-spotify-vs-apple-music-mobile-apps/) <br>
 
 > Problem statement: <br>
 >* The goal of this project is to investigate and compare the representative music apps that shapes the current social life.
@@ -43,11 +43,11 @@ As music apps reveals pros and cons in the various contexts of use, it is meanin
 >* core: privacy issue 
 
 #### Week 3: Extract user data from APIs of Music APPs and conduct exploratory analysis with existing features
-> Links to Music Apps
->* [Netease music web]:(https://music.163.com/)
->* [QQ Music]:(https://y.qq.com/)
->* [Spotify]:(https://open.spotify.com/)
->* [Apple Music]:(https://www.apple.com/apple-music/)
+> Links to Music Apps:
+>* [Netease music web](https://music.163.com/) <br>
+>* [QQ Music](https://y.qq.com/) <br>
+>* [Spotify](https://open.spotify.com/) <br>
+>* [Apple Music](https://www.apple.com/apple-music/) <br>
 
 > Link to exploratory analysis:
 
