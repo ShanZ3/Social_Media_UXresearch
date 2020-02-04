@@ -61,7 +61,7 @@ As music apps reveals pros and cons in the various contexts of use, it is meanin
 
 > Link to exploratory analysis:
 >* [Netease Music Features Summary](https://github.com/ShanZ3/UX-Research-2020/blob/master/NetEase%20Music%20App%20Description.pdf) <br>
-[Chart](https://github.com/ShanZ3/UX-Research-2020/blob/master/netease_music_features.jpg)<br>
+[Chart](https://github.com/ShanZ3/UX-Research-2020/blob/master/netease_music_features.png)<br>
 >* [QQ Music Features Summary Chart](https://github.com/ShanZ3/UX-Research-2020/blob/master/qq_music_features.jpg) <br>
 >* [Spotify Features description](https://support.spotify.com/us/using_spotify/features/) <br>
 >* [Apple Music Feature Description](https://github.com/ShanZ3/UX-Research-2020/blob/master/Apple%20Music%20description.pdf) <br>
