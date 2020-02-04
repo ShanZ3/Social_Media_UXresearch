@@ -54,16 +54,17 @@ As music apps reveals pros and cons in the various contexts of use, it is meanin
 
 #### Week 3: Extract user data from APIs of Music APPs and conduct exploratory analysis with existing features
 > Links to Music Apps Web Version:
->* [Netease music](https://music.163.com/) <br>
+>* [Netease Music](https://music.163.com/) <br>
 >* [QQ Music](https://y.qq.com/) <br>
 >* [Spotify](https://open.spotify.com/) <br>
 >* [Apple Music](https://www.apple.com/apple-music/) <br>
 
 > Link to exploratory analysis:
->* [Netease music feature description](https://github.com/ShanZ3/UX-Research-2020/blob/master/NetEase%20Music%20App%20Description.pdf) <br>
->* [QQ Music feature description](https://y.qq.com/) <br>
->* [Spotify feature description](https://support.spotify.com/us/using_spotify/features/) <br>
->* [Apple Music feature description](https://github.com/ShanZ3/UX-Research-2020/blob/master/Apple%20Music%20description.pdf) <br>
+>* [Netease Music Features Summary](https://github.com/ShanZ3/UX-Research-2020/blob/master/NetEase%20Music%20App%20Description.pdf) <br>
+[Chart](https://github.com/ShanZ3/UX-Research-2020/blob/master/netease_music_features.jpg)<br>
+>* [QQ Music Features Summary Chart](https://github.com/ShanZ3/UX-Research-2020/blob/master/qq_music_features.jpg) <br>
+>* [Spotify Features description](https://support.spotify.com/us/using_spotify/features/) <br>
+>* [Apple Music Feature Description](https://github.com/ShanZ3/UX-Research-2020/blob/master/Apple%20Music%20description.pdf) <br>
 >* [User behaviors analysis](https://github.com/ShanZ3/UX-Research-2020/blob/master/EA.pdf) <br>
 
 #### Week 4: Design a survey to investigate the user characteristics (midterms week)
