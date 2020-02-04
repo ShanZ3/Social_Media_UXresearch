@@ -11,7 +11,19 @@ Instructor: Sookyung Cho
 
 #### Week 2: Refine the research question and design problem statement
 > List Music Apps <br>
->* Netease Music; QQ Music; Apple Musics; Spotify <br>
+>* Netease Music:<br> <br>
+What differentiates NetEase Music from other apps is its stronger focus on indie artists, enabling it to compete with internet giants like Tencent and Alibaba. Besides short videos, the app has social features that enable users to interact with performers which have profiles on the service. It also has a music streaming option for joggers called Run FM (跑步FM) that selects music with a BPM rate that matches the listener’s running tempo. Aside from music, users can listen to podcasts and watch videos.<br>
+With 62.7 million MAU, NetEase is the first music service Unicorn securing RMB 750 million in Series A financing in April 2017.<br> <br>
+>* QQ Music:<br> <br>
+QQ is Tencent’s very first social product. It started out as an instant messaging tool back in 1998. Although QQ Music shares some  same features as Kugou, such as radio, KTV, and live streaming. It caters to a more urban crowd. QQ Music also offers articles and enables users to watch music videos, concerts, and interviews with famous musicians, including international stars such as Linkin Park.<br>
+The app has 211.43 million users. It owes its success to Tencent’s huge presence in the Chinese market, including WeChat. This enabled the service to strike deals with major record labels and allow its users to buy concert tickets through its payment service.<br> <br>
+>* Apple Musics:<br> <br>
+Apple Music is Apple's streaming music service, comparable to other similar streaming services like Spotify, Amazon Music Unlimited, Google Play Music, Tidal, and others.<br>
+Apple Music boasts access to a total of 60 million songs. Content can be streamed or downloaded for offline play, and there are also song and genre-based radio stations available along with the curated Beats 1 radio station. <br> <br>
+>* Spotify <br> <br>
+Spotify is a new digital music service that enables users to remotely source millions of different songs on various record labels from a laptop, smartphone or other device. This subscription-based service has been available in some countries since 2008. It can run on a Windows, Macintosh or Linux operating system, and is supported by iPhone, Android and Blackberry devices.<br>
+One of the main features of Spotify is the ability to share music with others. Spotify users can send music via social media platforms or through email, although some types of music sharing require the recipient to be a Spotify member.<br>
+Spotify also addresses the limitations of lack of access to Wi-Fi services through its offline mode provision. Depending on the user’s account type and other factors, Spotify can sync certain amounts of music, in playlists, to a device so that even when the user is disconnected or offline, he or she will be able to hear those selected songs. This and other exclusive features make Spotify a unique service in the very new field of subscription-based digital music hosting.<br>
 
 > Focus on the UX design <br>
 
