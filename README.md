@@ -23,11 +23,9 @@ Apple Music boasts access to a total of 60 million songs. Content can be streame
 >* Spotify <br> <br>
 Spotify is a new digital music service that enables users to remotely source millions of different songs on various record labels from a laptop, smartphone or other device. This subscription-based service has been available in some countries since 2008. It can run on a Windows, Macintosh or Linux operating system, and is supported by iPhone, Android and Blackberry devices.<br>
 One of the main features of Spotify is the ability to share music with others. Spotify users can send music via social media platforms or through email, although some types of music sharing require the recipient to be a Spotify member.<br>
-Spotify also addresses the limitations of lack of access to Wi-Fi services through its offline mode provision. Depending on the user’s account type and other factors, Spotify can sync certain amounts of music, in playlists, to a device so that even when the user is disconnected or offline, he or she will be able to hear those selected songs. This and other exclusive features make Spotify a unique service in the very new field of subscription-based digital music hosting.<br>
+Spotify also addresses the limitations of lack of access to Wi-Fi services through its offline mode provision. Depending on the user’s account type and other factors, Spotify can sync certain amounts of music, in playlists, to a device so that even when the user is disconnected or offline, he or she will be able to hear those selected songs. This and other exclusive features make Spotify a unique service in the very new field of subscription-based digital music hosting.<br> <br>
 
 > Focus on the UX design <br>
-
-> Find online version and mobile version <br>
 
 > Find research paper, understand what kind of research, gather any kind of research data <br>
 >* Netease Music User Experience Research paper:<br>
