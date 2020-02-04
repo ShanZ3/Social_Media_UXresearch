@@ -53,17 +53,21 @@ As music apps reveals pros and cons in the various contexts of use, it is meanin
 >* core: privacy issue 
 
 #### Week 3: Extract user data from APIs of Music APPs and conduct exploratory analysis with existing features
-> Links to Music Apps:
->* [Netease music web](https://music.163.com/) <br>
+> Links to Music Apps Web Version:
+>* [Netease music](https://music.163.com/) <br>
 >* [QQ Music](https://y.qq.com/) <br>
 >* [Spotify](https://open.spotify.com/) <br>
 >* [Apple Music](https://www.apple.com/apple-music/) <br>
 
 > Link to exploratory analysis:
+>* [Netease music](https://github.com/ShanZ3/UX-Research-2020/blob/master/NetEase%20Music%20App%20Description.pdf) <br>
 
-#### Week 4: Survey Conduct both Qualitative and Quantitative analysis with respect to user behaviors
+#### Week 4: Design a survey that both Qualitative and Quantitative aspect regarding user behaviors
+> Link to Survey:
 
-#### Week 5: Determine user preferences to existing and non-existing features of Music Apps and draw comparisons
+> Link to Analysis Report:
+
+#### Week 5: Collect data and determine user preferences to existing and non-existing features of Music Apps and draw comparisons
 
 #### Week 6: Persona + Scenario + Wireframe
 
