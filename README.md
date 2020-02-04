@@ -61,11 +61,16 @@ As music apps reveals pros and cons in the various contexts of use, it is meanin
 
 > Link to exploratory analysis:
 >* [Netease music](https://github.com/ShanZ3/UX-Research-2020/blob/master/NetEase%20Music%20App%20Description.pdf) <br>
+>* [QQ Music](https://y.qq.com/) <br>
+>* [Spotify](https://support.spotify.com/us/using_spotify/features/) <br>
+>* [Apple Music](https://www.apple.com/apple-music/) <br>
+>* [User behaviors analysis](https://github.com/ShanZ3/UX-Research-2020/blob/master/EA.pdf) <br>
 
-#### Week 4: Design a survey that both Qualitative and Quantitative aspect regarding user behaviors
-> Link to Survey:
+#### Week 4: Design a survey to investigate the user characteristics (midterms week)
 
-> Link to Analysis Report:
+> Link to Design Methods: Will upload soon...
+
+> Link to the Survey: Will upload soon...
 
 #### Week 5: Collect data and determine user preferences to existing and non-existing features of Music Apps and draw comparisons
 
