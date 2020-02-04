@@ -60,10 +60,10 @@ As music apps reveals pros and cons in the various contexts of use, it is meanin
 >* [Apple Music](https://www.apple.com/apple-music/) <br>
 
 > Link to exploratory analysis:
->* [Netease music](https://github.com/ShanZ3/UX-Research-2020/blob/master/NetEase%20Music%20App%20Description.pdf) <br>
->* [QQ Music](https://y.qq.com/) <br>
->* [Spotify](https://support.spotify.com/us/using_spotify/features/) <br>
->* [Apple Music](https://www.apple.com/apple-music/) <br>
+>* [Netease music feature description](https://github.com/ShanZ3/UX-Research-2020/blob/master/NetEase%20Music%20App%20Description.pdf) <br>
+>* [QQ Music feature description](https://y.qq.com/) <br>
+>* [Spotify feature description](https://support.spotify.com/us/using_spotify/features/) <br>
+>* [Apple Music feature description](https://github.com/ShanZ3/UX-Research-2020/blob/master/Apple%20Music%20description.pdf) <br>
 >* [User behaviors analysis](https://github.com/ShanZ3/UX-Research-2020/blob/master/EA.pdf) <br>
 
 #### Week 4: Design a survey to investigate the user characteristics (midterms week)
