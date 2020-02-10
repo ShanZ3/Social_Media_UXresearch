@@ -69,9 +69,8 @@ As music apps reveals pros and cons in the various contexts of use, it is meanin
 
 #### Week 4: Design a survey to investigate the user characteristics (midterms week)
 
-> Link to Design Methods: Will upload soon...
-
-> Link to the Survey: Will upload soon...
+> [Design Methods](https://docs.google.com/document/d/1CVfSZMHEYXDiZzQz2oNOvyCaknkcAH1wCLUS0uwzY28/edit?usp=sharing)<br>
+> [Survey](https://forms.gle/1ZU5pQBPSYBsqZxQ9)<br>
 
 #### Week 5: Collect data and determine user preferences to existing and non-existing features of Music Apps and draw comparisons
 
