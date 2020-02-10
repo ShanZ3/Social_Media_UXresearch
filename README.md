@@ -67,7 +67,7 @@ As music apps reveals pros and cons in the various contexts of use, it is meanin
 >* [Apple Music Feature Description](https://github.com/ShanZ3/UX-Research-2020/blob/master/Apple%20Music%20description.pdf) <br>
 >* [User behaviors analysis](https://github.com/ShanZ3/UX-Research-2020/blob/master/EA.pdf) <br>
 
-#### Week 4: Design a survey to investigate the user characteristics (midterms week)
+#### Week 4: Design a survey to investigate the user characteristics 
 
 > [Design Methods](https://docs.google.com/document/d/1CVfSZMHEYXDiZzQz2oNOvyCaknkcAH1wCLUS0uwzY28/edit?usp=sharing)<br>
 > [Survey](https://forms.gle/1ZU5pQBPSYBsqZxQ9)<br>
