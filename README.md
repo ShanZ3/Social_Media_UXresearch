@@ -74,6 +74,8 @@ As music apps reveals pros and cons in the various contexts of use, it is meanin
 
 #### Week 5: Collect data and determine user preferences to existing and non-existing features of Music Apps and draw comparisons
 
+>[Summary](https://docs.google.com/document/d/1Px-DzyQgYkvHB6H2gtKOkeWHcqVx4vhnXL4PO85fzHA/edit?usp=sharing)
+
 #### Week 6: Persona + Scenario + Wireframe
 
 #### Week 7: Low fidelity prototype (& High fidelity prototype)
