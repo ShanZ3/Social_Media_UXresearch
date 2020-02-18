@@ -78,6 +78,8 @@ As music apps reveals pros and cons in the various contexts of use, it is meanin
 
 #### Week 6: Persona + Scenario + Wireframe
 
+> Will upload later today (Monday), need to remove some features from wireflow...
+
 #### Week 7: Low fidelity prototype (& High fidelity prototype)
 
 #### Week 8: User testing
