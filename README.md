@@ -76,10 +76,16 @@ As music apps reveals pros and cons in the various contexts of use, it is meanin
 
 >[Summary](https://docs.google.com/document/d/1Px-DzyQgYkvHB6H2gtKOkeWHcqVx4vhnXL4PO85fzHA/edit?usp=sharing)
 
-#### Week 6: Persona + Scenario + Wireflow
+#### Week 6: Persona + Scenarios + Wireflow
 ##### Persona 
 > ![Persona1](https://github.com/ShanZ3/UX-Research-2020/blob/master/persona1.png)
 > ![Persona2](https://github.com/ShanZ3/UX-Research-2020/blob/master/Persona2.png)
+
+##### Scenarios
+> Scenario 1: <br>
+>* Ariel leaves her apartment at 8:00 am to catch the bruin bus to school. On the bus, she takes out her phone and starts her morning routine of listening to music whilst catching up on her social media. She hears a song that has been reposted by her friend on Spotify and saves it to her playlist. Intrigued by the song she wants to read its lyrics but finds no words listed. Frustrated by this, she opens google, inputs the song name followed by “dance music” and “Korean”. The first result shows the lyrics she wanted to read. She clicks the link which opens YouTube on the Songs page. She then likes it and shares it on Facebook. She spends the next 15 minutes of her journey listening to this new song and other recommendations made by Spotify before getting off the bus for a short walk to school.  <br>
+
+> Scenario 2: <br>
 
 ##### Wireflow
 > ![Wireflow](https://github.com/ShanZ3/UX-Research-2020/blob/master/Wireflow_199.png)
