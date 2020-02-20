@@ -77,8 +77,12 @@ As music apps reveals pros and cons in the various contexts of use, it is meanin
 >[Summary](https://docs.google.com/document/d/1Px-DzyQgYkvHB6H2gtKOkeWHcqVx4vhnXL4PO85fzHA/edit?usp=sharing)
 
 #### Week 6: Persona + Scenario + Wireflow
+##### Persona 
+> ![Persona1](https://github.com/ShanZ3/UX-Research-2020/blob/master/persona1.png)
+> ![Persona2](https://github.com/ShanZ3/UX-Research-2020/blob/master/Persona2.png)
 
-> [Wireflow](https://github.com/ShanZ3/UX-Research-2020/blob/master/Wireflow_199.pdf)
+##### Wireflow
+> ![Wireflow](https://github.com/ShanZ3/UX-Research-2020/blob/master/Wireflow_199.png)
 
 #### Week 7: Low fidelity prototype (& High fidelity prototype)
 
