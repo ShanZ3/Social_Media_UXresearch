@@ -91,8 +91,8 @@ As music apps reveals pros and cons in the various contexts of use, it is meanin
 ##### Potential Workflow
 > ![Workflow](https://github.com/ShanZ3/UX-Research-2020/blob/master/Wireflow_199.png)
 
-##### Potential Wireframe
-> ![Wireframe](https://github.com/ShanZ3/UX-Research-2020/blob/master/MusicApp_Wireframe.png)
+##### Wireframe
+> ![Wireframe](https://github.com/ShanZ3/UX-Research-2020/blob/master/Sloppy5_Music_Wireframe.png)
 
 #### Week 7: Prototype for Sloppy5
 > [Prototype Link](https://projects.invisionapp.com/prototype/ck734j09y0069kn01usvzup7u/play)
