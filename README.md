@@ -88,12 +88,14 @@ As music apps reveals pros and cons in the various contexts of use, it is meanin
 > Scenario 2: <br>
 >* Stephanie turns off her alarm and finally decides to get up. However, she doesn’t want to leave her bed even if it’s already 10:00 am. Her classes usually start in the afternoon, so she is never in a rush. Sitting on her bed, she grabs her phone out and continues watching music videos she left over last night on YouTube. While she is enjoying her favorite band’s show, Ads on various topics starts interrupt her video, which makes her feel annoyed. She is then forced to watch these ads from beginning to the end while her song is at its chorus. She really wants to upgrade to premium to eliminate the occurrence of these annoying ads. She then clicks the upgrade button and lands on subscription purchase page. Not until she saw the price did she give up this purchase since she believe it does not worth her money. She spends the next 30 minutes to her favorite songs before getting off her bed.  
 
-##### Workflow
+##### Potential Workflow
 > ![Workflow](https://github.com/ShanZ3/UX-Research-2020/blob/master/Wireflow_199.png)
 
 ##### Potential Wireframe
 > ![Wireframe](https://github.com/ShanZ3/UX-Research-2020/blob/master/MusicApp_Wireframe.png)
-#### Week 7: Low fidelity prototype (& High fidelity prototype)
+
+#### Week 7: Prototype for Sloppy5
+> [Prototype Link](https://projects.invisionapp.com/prototype/ck734j09y0069kn01usvzup7u/play)
 
 #### Week 8: User testing
 
