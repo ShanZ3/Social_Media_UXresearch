@@ -103,7 +103,10 @@ As music apps reveals pros and cons in the various contexts of use, it is meanin
 #### Week 8: User testing
 > [Sloppy5 Music App Usability Test](https://docs.google.com/forms/d/e/1FAIpQLSfxBfOWAWkOzb3Vjpa9YuvJ6m9l9xe2aW5mZDg_FMWkPQMu8g/viewform?usp=sf_link) <br>
 
-> [Video]()
+> [Sample Usability Test Video](https://drive.google.com/file/d/1B7UuGRq9oQHLguhwzfcnZzvDCZJxF_UG/view?usp=sharing) <br>
+>* Conducted UT test with 5 UCLA students
+
+> [Sreenrecording Video for Sample UT Test](https://drive.google.com/file/d/1HOOK9EvoUocptkYiMkHg6VDuqWCQMWRb/view?usp=sharing) 
 
 #### Week 9: Documentation
 
