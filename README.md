@@ -29,17 +29,16 @@ Spotify also addresses the limitations of lack of access to Wi-Fi services throu
 
 > Find research paper, understand what kind of research, gather any kind of research data <br>
 >* Netease Music User Experience Research paper:<br>
->[Target User Research](https://www.jianshu.com/p/e35927148245) <br>
->[UX design](https://www.jianshu.com/p/fc74a0e845bb) <br>
+>[UX design](https://drive.google.com/file/d/1yW60P6aDQPjXHUzsspinbbJnIV_9zMAN/view?usp=sharing) <br>
 
 >* QQ Music User Experience Research paper:<br>
->[Target User Research + UX design](http://www.woshipm.com/evaluating/1033354.html)<br>
+>[Tencent Music Analysis](https://musicindustryblog.wordpress.com/tag/qq-music/)<br>
 
->* Netnease vs. QQ Music UX design comparison paper: <br>
->[Comparison](https://zhuanlan.zhihu.com/p/81289403) <br>
+>* QQ Music vs. Netease Music UX design comparison paper: <br>
+>[Comparison](https://soundcharts.com/blog/music-market-focus-china-part-1) <br>
 
 >* Spotify User Experience Research paper:<br>
->[Target User Research + UX design](https://www.leanplum.com/blog/app-engagement-spotify/) <br>
+>[Target User Research + UX design](http://judykosowsky.com/spotify) <br>
 
 >* Apple Music User Experience Research paper:<br>
 >[UX design](https://aarthipadmanabhan.com/apple-music) <br>
