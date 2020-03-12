@@ -77,8 +77,8 @@ As music apps reveals pros and cons in the various contexts of use, it is meanin
 
 #### Week 6: Persona + Scenarios + Wireflow
 ##### Persona 
-> ![Persona1](https://github.com/ShanZ3/UX-Research-2020/blob/master/persona1.png)
-> ![Persona2](https://github.com/ShanZ3/UX-Research-2020/blob/master/Persona2.png)
+> ![Persona1](persona1.png)
+> ![Persona2](Persona2.png)
 
 ##### Scenarios
 > Scenario 1: <br>
